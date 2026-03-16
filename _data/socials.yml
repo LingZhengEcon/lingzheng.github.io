@@ -12,12 +12,15 @@ email: hyzhengling@whu.edu.cn # your email address
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
 #  url: https://www.alberteinstein.com/
-X: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: assets/img/X.png # can be png, svg, jpg
+
+X: 
+  logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png
   title: X
   url: https://x.com/zhengling0224
 
 ig:
-  logo: assets/img/ig.png # can be png, svg, jpg
+  logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png # can be png, svg, jpg
   title: ig
   url: https://www.instagram.com/elliott_0224/
+
+twitter_username: zhengling0224
