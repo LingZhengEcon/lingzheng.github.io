@@ -471,6 +471,20 @@ ninja.data = [{
           window.open("mailto:%68%79%7A%68%65%6E%67%6C%69%6E%67@%77%68%75.%65%64%75.%63%6E", "_blank");
         },
       },{
+        id: 'social-X',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://x.com/zhengling0224", "_blank");
+        },
+      },{
+        id: 'social-ig',
+        title: 'Ig',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.instagram.com/elliott_0224/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
