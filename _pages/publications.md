@@ -7,9 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-## Working Papers
+
 
 {% include bib_search.liquid %}
+
+## Working Papers
 
 <div class="publications">
 {% bibliography %}
@@ -21,3 +23,4 @@ nav_order: 2
 
 - **Constraint-driven Priority Adjustment Mechanism**
   - My bachelor Thesis.
+  - This paper designs priority-adjustment mechanisms that incentivize participants to fill scarce positions by granting them priority boosts, and characterizes fundamental impossibility results under endogenous shortage identification.

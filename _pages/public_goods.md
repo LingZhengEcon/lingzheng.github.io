@@ -19,7 +19,7 @@ A curated collection of resources I find useful. Freely shared.
 - [Al Roth](https://web.stanford.edu/~alroth/) — Stanford
 - [Parag Pathak](https://economics.mit.edu/people/faculty/parag-pathak) — MIT
 - [Fuhito Kojima](https://sites.google.com/site/fuhitokojimaeconomics/Fuhito-Kojima)- Tokyo U
-
+- [Federico Echenique](https://eml.berkeley.edu/~fechenique/) - UC Berkeley
 
 ---
 
@@ -31,7 +31,7 @@ A curated collection of resources I find useful. Freely shared.
 #### External Lecture Notes
 - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd) — Paul Goldsmith-Pinkham
 - [Grad Econometrics Slides](https://about.peterhull.net/metrix) — Peter Hull
-
+- [Matching and Market Design](https://www.xiangsun.org/teaching) - Xiang Sun
 ---
 
 
