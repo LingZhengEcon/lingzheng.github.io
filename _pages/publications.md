@@ -21,6 +21,12 @@ nav_order: 2
 
 ## Selected Work in Progress
 
-- **Constraint-driven Priority Adjustment Mechanism**
-  - My bachelor Thesis.
-  - This paper designs priority-adjustment mechanisms that incentivize participants to fill scarce positions by granting them priority boosts, and characterizes fundamental impossibility results under endogenous shortage identification.
+<div class="publications">
+<ol class="bibliography">
+<li>
+  <div class="title">Constraint-driven Priority Adjustment Mechanism</div>
+  <div class="author">Ling Zheng</div>
+  <div class="note">My Bachelor Thesis. What happen </div>
+</li>
+</ol>
+</div>
