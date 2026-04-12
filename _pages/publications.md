@@ -33,7 +33,7 @@ nav_order: 2
     <li>
       <div class="title">History &times; Innovation</div>
       <div class="author">with <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7373798">Mattrew Zhan</a></div>
-      <div class="note">Currently on hold.</div>
+      <div class="note"><em>Currently on hold.</em></div>
     </li>
   </ol>
 </div>
