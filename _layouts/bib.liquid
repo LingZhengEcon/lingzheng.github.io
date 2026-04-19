@@ -201,6 +201,9 @@
       {% if entry.timeline %}
       <a class="timeline-toggle btn btn-sm z-depth-0" role="button">Timeline</a>
       {% endif %}
+      {% if entry.tldr %}
+      <a class="tldr-toggle btn btn-sm z-depth-0" role="button">TLDR</a>
+      {% endif %}
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
@@ -392,6 +395,12 @@
       </div>
     {% endfor %}
   </div>
+{% endif %}
+
+{% if entry.tldr %}
+<div class="tldr-box hidden">
+  <p> entry.tldr </p>
+</div>
 {% endif %}
 
     {% if entry.bibtex_show %}

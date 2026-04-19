@@ -6,3 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".tldr-toggle").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      const box = btn.closest("li, div").querySelector(".tldr-box");
+      if (box) box.classList.toggle("hidden");
+    });
+  });
+});

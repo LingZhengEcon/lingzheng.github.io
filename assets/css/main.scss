@@ -104,3 +104,12 @@ h2 + ul {
     padding-left: 1.2rem;
   }
 }
+
+.tldr-box.hidden { display: none; }
+.tldr-box {
+  border: 1px dashed #ccc;
+  padding: 0.6rem 0.9rem;
+  margin-top: 0.5rem;
+  border-radius: 4px;
+  font-style: italic;
+}
