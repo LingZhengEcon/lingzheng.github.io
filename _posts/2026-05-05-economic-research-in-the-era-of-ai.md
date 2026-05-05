@@ -1,0 +1,27 @@
+---
+layout: post
+title: Economic research in the era of AI
+date: 2026-05-05
+tags: [economics]
+description: Notes on economics, AI, and the changing production of research.
+---
+
+_A preface: I have decided to write a series of essays recording what I observe about AI, in the hope of adjusting my stance as the tide carries us forward._
+
+The biggest story in economics this month is that David Yanagizawa-Drott, of the University of Zurich, used Claude Code to generate a complete macroeconomics paper—models, econometrics and all—with a structure and a design that would not embarrass a human author. One commenter remarked that he now understood how the textile weavers felt when they first saw the spinning jenny.
+
+He is not alone. Everyone is a passenger on this twenty-first-century industrial revolution, and economists have no special immunity. If AI is about to upend the production of knowledge, what distinctive value can we still offer?
+
+Consider applied micro, where I spend most of my time. I now lean heavily on AI agents for the grubbier parts of the job—cleaning data, writing scrapers, drafting pipelines. The agent plans its own work and executes it; I no longer shuttle error messages between a browser tab and my editor, shouting "give me the complete code!" at the screen. I read the plan, answer a question or two about the data, and click through the occasional decision point. Only half in jest, I tell friends I could run several RA gigs in parallel; the only binding constraints are my token budget and data access. The agent can scrape what sits in the open web, but not what requires a login, an application, or a signed NDA. And much of the best data in applied micro is not on the open web at all: it circulates privately among researchers, traded like a currency. That, rather than technique, is the field's sharpest moat.
+
+Research design is not safe either. In another project of mine, the exogenous shock and the identification strategy came straight from an AI's suggestions. This ought not to surprise anyone. The canonical toolkit—difference-in-differences, regression discontinuity, instrumental variables, synthetic control, randomised trials and a handful of variants—can be counted on two hands, and the corpus of natural experiments that economists have already exploited is sitting in the model's training data. What is scarcer, perhaps, is a sense of which questions are worth asking. Even that should not be over-romanticised: the big questions humanity cares about are not many. What separates researchers is the ambition to take them on, and the ability to connect a narrow finding back to a broad one.
+
+Theory, for now, has been spared. The production of a theory paper follows no fixed recipe. My own two forays into theory have been anything but linear, full of scrapped drafts and abandoned angles. The choices are rarely binary—one path blocked, take another—but rather an endless fork of small trails, none obviously dominating the rest, requiring the researcher's taste and experience to pick among them. Problems are made, not found; the goal meanders like a river through the course of the work. What AI can currently do is check proofs and assist with them. But intuition is forged in the act of proving: outsource the proof, and the exercise loses its point. Worse, the obliging temperament of today's models makes them disturbingly willing to manufacture "proofs" of propositions that are in fact false.
+
+Zoom out, and the cost of producing papers will fall across every field, and their speed of production will rise. Academia itself has no capacity constraint: journals can expand their page counts, new ones can be founded, pre-print servers are effectively bottomless. The real scarce resource is human attention. Economists will have to spend more time reading—both AI-generated output and the work of peers—sifting for what is actually worth reading. That may even be a tonic for a research ecosystem that has grown murky with prolific-but-pointless output. Busywork dressed up as scholarship will lose its prestige; AI, paradoxically, becomes a filter that raises the quality bar.
+
+I am in part pessimistic about economics, though that pessimism is mostly about my own ability to stay near the front of the race. The grounds for optimism are that some functions of the discipline will not be automated any time soon. A field's "fieldwork-ness"—the need to be physically in the world—is what decides whether it survives and thrives. For the foreseeable future, an AI cannot run a randomised experiment in rural Africa, negotiate with a village chief or an agriculture official, or gather undergraduates into a lab for a behavioral game. The lesson is clear enough: economics should move closer to reality, not further from it. The best ideas, I still believe, come from the world itself—from conversations with people whose vantage points lie off the beaten track, from patient observation of ordinary life—not from rearranging the furniture of the existing literature.
+
+AI also hands us a new set of questions. AI itself needs to be studied. When ChatGPT first appeared, working on AI felt a little like chasing a trend; today AI is a subject of inquiry on the same footing as trade, taxation or the climate.
+
+Here seems a fitting place to stop. I intend to follow the future of AI and of economics with something close to pure curiosity.
