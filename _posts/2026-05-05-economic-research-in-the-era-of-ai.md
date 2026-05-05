@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Economic research in the era of AI
+title: Economic Research in the Era of AI
 date: 2026-05-05
 tags: [economics]
 description: An essay on economics, AI, and the changing production of research.

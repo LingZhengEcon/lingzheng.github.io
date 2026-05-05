@@ -37,9 +37,6 @@ layout: default
             {% else %}
               <a class="post-link archive-title" href="{{ document.redirect | relative_url }}">{{ document.title }}</a>
             {% endif %}
-            {% if document.description %}
-              <p class="archive-description">{{ document.description }}</p>
-            {% endif %}
           </div>
         </div>
       {% endfor %}

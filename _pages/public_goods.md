@@ -17,6 +17,7 @@ nav_order: 4
       <button class="nav-link" data-bs-toggle="pill" data-bs-target="#scholars" type="button">Scholars</button>
       <button class="nav-link" data-bs-toggle="pill" data-bs-target="#lecture-notes" type="button">Lecture Notes</button>
       <button class="nav-link" data-bs-toggle="pill" data-bs-target="#template" type="button">Latex Template</button>
+      <button class="nav-link" data-bs-toggle="pill" data-bs-target="#ra-guidance" type="button">Econ RAs Guidance</button>
       <button class="nav-link" data-bs-toggle="pill" data-bs-target="#phd-resources" type="button">Econ PhD Resources</button>
     </div>
   </div>
@@ -74,12 +75,15 @@ nav_order: 4
         </ul>
       </div>
 
-      <div class="tab-pane fade" id="phd-resources">
+      <div class="tab-pane fade" id="ra-guidance">
         <h4>Econ RAs Guidance</h4>
         <ul>
           <li><a href="https://static1.squarespace.com/static/5d6fdc2005e1e70001b04760/t/634319f7c53d3164dc779bb5/1665341943804/Applied+Tips+for+Applied+Micro+RAs.pdf">RAs Tips from Livia Alfonsi</a></li>
           <li><a href="https://raguide.github.io/">Econ RA Guide</a></li>
         </ul>
+      </div>
+
+      <div class="tab-pane fade" id="phd-resources">
         <h4>Econ PhD Resources</h4>
         <ul>
           <li><a href="https://docs.google.com/spreadsheets/d/1YPBecm373ckzLazPh4A58h9Gu4glfKtCl1VtS-9J0D4/edit?usp=drivesdk">China Econ Job Market</a></li>
