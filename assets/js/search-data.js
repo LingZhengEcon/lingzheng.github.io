@@ -50,7 +50,7 @@ ninja.data = [{
         },
       },{id: "post-economic-research-in-the-era-of-ai",
         
-          title: "Economic research in the era of AI",
+          title: "Economic Research in the Era of AI",
         
         description: "An essay on economics, AI, and the changing production of research.",
         section: "Posts",
