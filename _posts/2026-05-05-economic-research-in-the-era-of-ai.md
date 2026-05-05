@@ -3,7 +3,7 @@ layout: post
 title: Economic research in the era of AI
 date: 2026-05-05
 tags: [economics]
-description: Notes on economics, AI, and the changing production of research.
+description: An essay on economics, AI, and the changing production of research.
 ---
 
 _A preface: I have decided to write a series of essays recording what I observe about AI, in the hope of adjusting my stance as the tide carries us forward._

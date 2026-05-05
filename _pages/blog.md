@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 nav: true
 nav_order: 3
-description: Poems, economic margins, reading notes, and ordinary fragments.
+description: Poems, economic essays, reading notes, and ordinary fragments.
 _styles: |
   .post .post-header {
     margin-bottom: 2.4rem;
@@ -175,12 +175,12 @@ _styles: |
 
   <a href="{{ '/blog/tag/economics' | relative_url }}" class="blog-card blog-card-econ">
     <div class="blog-card-image">
-      <img src="{{ '/assets/img/blog/econ-notes.jpg' | relative_url }}" alt="An economics notebook with a chart and equations">
+      <img src="{{ '/assets/img/blog/econ-notes.jpg' | relative_url }}" alt="An economics essay draft with a chart and equations">
     </div>
     <div class="blog-card-content">
       <div>
-        <h2 class="blog-card-title">Econ Notes</h2>
-        <p class="blog-card-subtitle">papers, markets, mechanisms</p>
+        <h2 class="blog-card-title">Econ Essays</h2>
+        <p class="blog-card-subtitle">observations, papers, markets</p>
       </div>
       <span class="blog-card-number">02</span>
     </div>
