@@ -46,6 +46,15 @@ layout: default
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+
+      <h2>Visitor Map</h2>
+      <div class="visitor-map">
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="//cdn.clustrmaps.com/map_v2.js?cl=632020&w=300&t=n&d=1PgBuuNJPS93NXAxfOkQb0KCMWw0MF1shcJESFm3Ov0&co=090c3d&ct=ffffff&cmo=3acc3a&cmn=ff5353"
+        ></script>
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
@@ -77,9 +86,4 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
   </article>
-</div>
-
-<div style="text-align: center; margin: 2rem auto;">
-  <h5>Visitor Map</h5>
-  <iframe src="https://revolvermaps2.com/widget/2364faab-7636-40f7-8335-b906035760d7" width="320" height="320" style="border:0;" loading="lazy"></iframe>
 </div>

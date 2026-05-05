@@ -75,6 +75,12 @@ nav_order: 4
       </div>
 
       <div class="tab-pane fade" id="phd-resources">
+        <h4>Econ RAs Guidance</h4>
+        <ul>
+          <li><a href="https://static1.squarespace.com/static/5d6fdc2005e1e70001b04760/t/634319f7c53d3164dc779bb5/1665341943804/Applied+Tips+for+Applied+Micro+RAs.pdf">RAs Tips from Livia Alfonsi</a></li>
+          <li><a href="https://raguide.github.io/">Econ RA Guide</a></li>
+        </ul>
+        <h4>Econ PhD Resources</h4>
         <ul>
           <li><a href="https://docs.google.com/spreadsheets/d/1YPBecm373ckzLazPh4A58h9Gu4glfKtCl1VtS-9J0D4/edit?usp=drivesdk">China Econ Job Market</a></li>
         </ul>

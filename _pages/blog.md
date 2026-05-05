@@ -69,10 +69,7 @@ _styles: |
   }
 
   .blog-card-content {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 1rem;
-    align-items: end;
+    display: block;
     padding: 1.45rem 1.55rem 1.35rem;
     background:
       linear-gradient(180deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.72)),
@@ -80,36 +77,11 @@ _styles: |
   }
 
   .blog-card-title {
-    margin: 0 0 0.35rem;
+    margin: 0;
     font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
     font-size: 2.1rem;
     font-weight: 500;
     line-height: 1.08;
-  }
-
-  .blog-card-subtitle {
-    margin: 0;
-    color: rgba(38, 38, 38, 0.68);
-    font-size: 0.94rem;
-    line-height: 1.5;
-  }
-
-  .blog-card-number {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.7rem;
-    color: var(--card-accent, #7b2f28);
-    font-size: 0.95rem;
-    letter-spacing: 0.04em;
-    white-space: nowrap;
-  }
-
-  .blog-card-number::before {
-    width: 2.4rem;
-    height: 1px;
-    background: currentColor;
-    content: "";
-    opacity: 0.52;
   }
 
   .blog-card-poetry {
@@ -148,11 +120,6 @@ _styles: |
       min-height: 12.5rem;
     }
 
-    .blog-card-content {
-      grid-template-columns: 1fr;
-      padding: 1.2rem;
-    }
-
     .blog-card-title {
       font-size: 1.7rem;
     }
@@ -165,11 +132,7 @@ _styles: |
       <img src="{{ '/assets/img/blog/poetry.jpg' | relative_url }}" alt="A handwritten poem page with a pressed leaf">
     </div>
     <div class="blog-card-content">
-      <div>
-        <h2 class="blog-card-title">Poetry</h2>
-        <p class="blog-card-subtitle">image, silence, feeling</p>
-      </div>
-      <span class="blog-card-number">01</span>
+      <h2 class="blog-card-title">Poetry</h2>
     </div>
   </a>
 
@@ -178,11 +141,7 @@ _styles: |
       <img src="{{ '/assets/img/blog/econ-notes.jpg' | relative_url }}" alt="An economics essay draft with a chart and equations">
     </div>
     <div class="blog-card-content">
-      <div>
-        <h2 class="blog-card-title">Econ Essays</h2>
-        <p class="blog-card-subtitle">observations, papers, markets</p>
-      </div>
-      <span class="blog-card-number">02</span>
+      <h2 class="blog-card-title">Econ Essays</h2>
     </div>
   </a>
 
@@ -191,11 +150,7 @@ _styles: |
       <img src="{{ '/assets/img/blog/reading-notes.jpg' | relative_url }}" alt="An open book with annotated margins and page tabs">
     </div>
     <div class="blog-card-content">
-      <div>
-        <h2 class="blog-card-title">Reading Notes</h2>
-        <p class="blog-card-subtitle">books, reviews, close reading</p>
-      </div>
-      <span class="blog-card-number">03</span>
+      <h2 class="blog-card-title">Reading Notes</h2>
     </div>
   </a>
 
@@ -204,11 +159,7 @@ _styles: |
       <img src="{{ '/assets/img/blog/fragments.jpg' | relative_url }}" alt="Everyday desk fragments with a note, receipt, and coffee stain">
     </div>
     <div class="blog-card-content">
-      <div>
-        <h2 class="blog-card-title">Fragments</h2>
-        <p class="blog-card-subtitle">life, work, fragments</p>
-      </div>
-      <span class="blog-card-number">04</span>
+      <h2 class="blog-card-title">Fragments</h2>
     </div>
   </a>
 </section>
